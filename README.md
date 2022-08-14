@@ -1,10 +1,7 @@
 ## Hola :penguin:
 
-### [Hack The Box](https://app.hackthebox.com/profile/420577) 😄
+### Mis perfiles de [Hack The Box](https://app.hackthebox.com/profile/420577) y [Try Hack Me](https://tryhackme.com/p/l3pra) 😄
 ![hackthebox stats](http://www.hackthebox.eu/badge/image/420577)
-
-
-### [Try Hack Me](https://tryhackme.com/p/l3pra)
 ![tryhackme stats](./imagenes/thm.png)
 
 <!--
