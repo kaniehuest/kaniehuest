@@ -27,12 +27,22 @@
   
 <h3 align="center">  
   <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
-  Otros Perfiles
+  Perfil de HTB con <i>163</i> Máquinas Rooteadas
   <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
 </h3>
  
 <p align="center">
   <a href="https://app.hackthebox.com/profile/420577"><img src="http://www.hackthebox.eu/badge/image/420577"></img></a> 
-  <a href="https://tryhackme.com/p/l3pra"><img src="./imagenes/thm.png"></img></a>
 <p>
   
+---
+
+<h3 align="center">  
+  <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
+  Perfil de TryHackMe con Rango <i>[0xD][God]</i> y Top <i>12</i> de Chile
+  <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
+</h3>
+ 
+<p align="center">
+   <a href="https://tryhackme.com/p/l3pra"><img src="./imagenes/thm.png"></img></a>
+</p>
