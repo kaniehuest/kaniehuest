@@ -14,17 +14,22 @@
 
 I'm a chilean person 🇨🇱 who is addicted to CTFs, my main focus is in web hacking but I love learning about everything.
 
-<h3> 🐊 Some of my skills are: </h3>
+<h3> 🐊 Some of my programming skills are: </h3>
 
 ---
 
-- <img height="25" width="25" src="https://cdn.simpleicons.org/tryhackme/white" /> TryHackMe
-- <img height="25" width="25" src="https://cdn.simpleicons.org/hackthebox/9FEF00" /> HackTheBox
-- Django
-- Python
-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+Django, Python, CSS, HTML, Javascript, SQL, GIT, some Java, Android, PHP, Jekyll, some C# with Unity, Mysql, MongoDB, NodeJS, Jekyll, and many more that I can't remember rn.
 
-<h3> 👀 Some stats:</h3>
+<h3> 👽 Some of my cybersecurity skills are: </h3>
+
+---
+
+Common web attacks like SSTI, SQLi, XSS, etc.<br>
+Tools like Virtualbox, VMWare, Docker, Burpsuite, Curl, chisel, socat, john, hashcat, ffuf, etc.<br>
+Scripting languages like Bash and Python.<br>
+
+
+<h3> 👀 Stats:</h3>
 
 ---
 
