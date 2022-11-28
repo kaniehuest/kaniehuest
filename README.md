@@ -49,5 +49,5 @@ Scripting languages like Bash and Python.<br>
 
 <p align="center">2.- TryHackMe profile with <i>[0xD][God]</i> range and Top <i>12</i> of Chile
   <br><br>
-  <a href="https://tryhackme.com/p/l3pra"><img src="./imagenes/thm.png"></img></a>
+  <a href="https://tryhackme.com/p/l3pra"> <img src="https://tryhackme-badges.s3.amazonaws.com/l3pra.png" alt="TryHackMe"></a>   
 </p>
