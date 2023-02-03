@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/AnkushSinghGandhi/AnkushSinghGandhi/master/images/dino.gif"/></p>  
 <h3 align="center"><b>Hi, welcome to my profile</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>   
 
 <p align="center">
