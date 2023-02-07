@@ -17,14 +17,14 @@ I'm a chilean person 🇨🇱 who is addicted to CTFs, my main focus is in web h
 
 ---
 
-Django, Python, CSS, HTML, Javascript, SQL, GIT, some Java, Android, PHP, Jekyll, some C# with Unity, Mysql, MongoDB, NodeJS, Jekyll, and many more that I can't remember rn.
+Django, Python, CSS, HTML, Javascript, SQL, GIT, Java, Android, PHP, Mysql, MongoDB, NodeJS.
 
 <h3> 👽 Some of my cybersecurity skills are: </h3>
 
 ---
 
 Common web attacks like SSTI, SQLi, XSS, etc.<br>
-Tools like Virtualbox, VMWare, Docker, Burpsuite, Curl, chisel, socat, john, hashcat, ffuf, etc.<br>
+Comfortable with Linux.<br>
 Scripting languages like Bash and Python.<br>
 
 
