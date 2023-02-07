@@ -24,7 +24,7 @@ Django, Python, CSS, HTML, Javascript, SQL, GIT, Java, Android, PHP, Mysql, Mong
 ---
 
 Common web attacks like SSTI, SQLi, XSS, etc.<br>
-Comfortable with Linux.<br>
+Linux and Windows.<br>
 Scripting languages like Bash and Python.<br>
 
 
