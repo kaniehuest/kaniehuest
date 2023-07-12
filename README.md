@@ -9,17 +9,20 @@ I'm a chilean 🇨🇱 fullstack developer :)
 
 ## 🐊 Very confident with
 
-ReactJS - MySQL - Django - Python3 - Javascript - Html - CSS - Bootstrap - TailwindCSS - Git - Cybersecurity - Linux - Bash.
+ReactJS - MySQL - Django - Python3 - Javascript - Html - CSS - Bootstrap - TailwindCSS - Git - Common Web Security Vulnerabilities - Linux - Bash - Docker.
 
-## ⌨️ Less confident but with experience
+## ⌨️ Experience with
 
-NestJS - MongoDB - ServerSentEvents - ModbusProtocol - TypeORM - TypeScript - Docker.
+NestJS - MongoDB - ServerSentEvents - TypeORM - TypeScript.
 
 ## 🤏 Little experience 
  
-Rust - Go - AWS - PHP - Java - C# - C.
-
+Rust - Go - AWS - PHP - Java - C# - C - Lua.
  
 ## 👀 My other profiles
  
 [TryHackMe](https://app.hackthebox.com/profile/420577) - [HackTheBox](https://tryhackme.com/p/l3pra)
+
+## 👽 Personal blog about cybersecurity challenges
+
+[Blog](https://kaniehuest.github.io/)
