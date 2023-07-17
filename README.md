@@ -21,7 +21,7 @@ Rust - Go - AWS - PHP - Java - C# - C - Lua.
  
 ## 👀 My other profiles
  
-[TryHackMe](https://app.hackthebox.com/profile/420577) - [HackTheBox](https://tryhackme.com/p/l3pra)
+[HackTheBox](https://app.hackthebox.com/profile/420577) - [TryHackMe](https://tryhackme.com/p/l3pra)
 
 ## 👽 Personal blog about cybersecurity challenges
 
