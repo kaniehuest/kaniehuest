@@ -5,19 +5,15 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kaniehuest.kaniehuest)
 
-I'm a chilean 🇨🇱 fullstack developer :)
+Average chilean person doing some average chilean person things :chile: 
 
-## 🐊 Very confident with
+## :crocodile: Very confident with
 
-ReactJS - MySQL - Django - Python3 - Javascript - Html - CSS - Bootstrap - TailwindCSS - Git - Common Web Security Vulnerabilities - Linux - Bash - Docker.
+ReactJS - NestJS - MySQL - MongoDB - Python - Javascript - Django - Bootstrap - TailwindCSS - Git - WebApps Security - Linux - Bash - Docker.
 
-## ⌨️ Experience with
+## :zap: Experience with
 
-NestJS - MongoDB - ServerSentEvents - TypeORM - TypeScript.
-
-## 🤏 Little experience 
- 
-Rust - Go - AWS - PHP - Java - C# - C - Lua.
+PostgreSQL - MicroServices - TypeScript - Rust - Go - AWS - PHP - Java - C# - C - Lua - Flask - FastAPI.
  
 ## 👀 My other profiles
  
